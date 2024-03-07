@@ -14,5 +14,4 @@ public:
 protected:
     void addIconsWithLabels();
     void mousePressEvent(QMouseEvent *event);
-    // Здесь могут быть перегруженные функции или новые методы
 };
